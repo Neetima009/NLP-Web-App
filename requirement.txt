@@ -1,0 +1,7 @@
+streamlit
+textblob==0.15.2
+spacy
+gensim
+neattext
+matplotlib
+wordcloud
